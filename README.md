@@ -1,4 +1,6 @@
-# This project is a small pacmen game that allows you to continously add pacmen images to the console and raise the movement velocity by clicking on the "start game" button.
+# Pacmen excersize
+
+This project is a small pacmen game that allows you to continously add pacmen images to the console and raise the movement velocity by clicking on the "start game" button.
 
 Directions
 1. Load the webpage
