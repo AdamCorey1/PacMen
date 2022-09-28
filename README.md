@@ -6,3 +6,6 @@ Directions
 1. Load the webpage
 2. Click "Add PacMan"
 3. Click "Start game" to increase velocity
+
+Licensing Information
+This code is licensed by MIT and all subsequent copies of this repository should include this information.
